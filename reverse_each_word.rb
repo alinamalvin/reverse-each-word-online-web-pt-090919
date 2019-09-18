@@ -1,4 +1,4 @@
 def reverse_each_word(string)
-  string = "I am Alina"
+  string = "Hello there, and how are you?"
   puts string.reverse
 end
